@@ -1,1 +1,7 @@
-This is a Repo for my Compiler Design project names CSV-JSON/XML converter
+A Compiler Design project to convert the following file formats
+CSV to JSON
+JSON to CSV
+CSV to XML
+XML to CSV
+JSON to XML
+XML to JSON
